@@ -125,4 +125,3 @@ multimodal-mortality-prediction
 M.Sc. Statistics & Data Science
 
 NSOMASA, SVKM's NMIMS University
-
