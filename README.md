@@ -18,3 +18,4 @@ This project integrates structured patient data with physician notes using Natur
 - Integrate structured clinical data with unstructured clinical notes.
 - Compare structured-only and multimodal prediction models.
 - Evaluate the effectiveness of multimodal learning for improving predictive performance.
+
