@@ -1,4 +1,4 @@
-# Source Code
+# Project Workflow
 
 The project is organized into four notebooks corresponding to different stages of the workflow.
 
