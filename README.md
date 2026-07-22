@@ -74,7 +74,7 @@ The dataset includes:
 | Model | ROC-AUC |
 |--------|:-------:|
 | Structured Data Model | 0.89 |
-| Multimodal Model | 0.92 |
+| Multimodal Model | 0.95 |
 
 The multimodal approach demonstrated improved predictive performance by integrating structured clinical variables with information extracted from physician notes using TF-IDF and BioBERT.
 
